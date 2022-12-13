@@ -23,6 +23,10 @@ Clone the repository to your local machine and open the package.json on your Ter
 
 [Deployed Site Web](https://andresilva8624.github.io/social-media-app/)
 
+[Demonstrational Video Link](https://drive.google.com/file/d/1gQDtCINHS4aJsNQPZP2ozdR3ymUKj_3a/view)
+
+![gif of deployed site](/models/website.gif)
+
 
 
 ## Credits
