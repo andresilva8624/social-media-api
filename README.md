@@ -19,7 +19,7 @@ Clone the repository to your local machine and open the package.json on your Ter
 
 ## Usage
 
-[Deployed Site Repository](hhttps://github.com/andresilva8624/social-media-api)
+[Deployed Site Repository](https://github.com/andresilva8624/social-media-api)
 
 [Deployed Site Web](https://andresilva8624.github.io/social-media-api/)
 
